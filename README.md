@@ -1,9 +1,7 @@
-- 👋 Hi, @iamcringyfox (__he/they__)
+- 👋 Hi, @iamcringyfox
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning golang+python with chatgpt
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
-- 😄 Pronouns: 
 - ⚡ Fun fact: i love food
 
 <!---
